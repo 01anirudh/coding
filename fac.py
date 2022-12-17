@@ -3,7 +3,7 @@ num = 101
 
 factorial = 1
 
-if num <100:
+if num <=100:
    print("Invalid")
 elif num == 0:
    print("The factorial of 0 is 1")
