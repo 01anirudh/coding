@@ -1,5 +1,5 @@
 
-num = 10
+num = 101
 
 factorial = 1
 
